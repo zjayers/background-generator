@@ -1,0 +1,20 @@
+{
+  "name": "background-generator",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/zjayers/background-generator#readme",
+  "bugs": {
+    "url": "https://github.com/zjayers/background-generator/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zjayers/background-generator.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
